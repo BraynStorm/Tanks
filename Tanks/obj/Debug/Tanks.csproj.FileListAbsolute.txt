@@ -1,0 +1,14 @@
+D:\Workspace\C++\Kursovi\Tanks\Tanks\bin\Debug\Tanks.exe.config
+D:\Workspace\C++\Kursovi\Tanks\Tanks\obj\Debug\Tanks.csprojResolveAssemblyReference.cache
+D:\Workspace\C++\Kursovi\Tanks\Tanks\obj\Debug\Tanks.Properties.Resources.resources
+D:\Workspace\C++\Kursovi\Tanks\Tanks\obj\Debug\Tanks.csproj.GenerateResource.Cache
+D:\Workspace\C++\Kursovi\Tanks\Tanks\bin\Debug\Tanks.exe
+D:\Workspace\C++\Kursovi\Tanks\Tanks\bin\Debug\Tanks.pdb
+D:\Workspace\C++\Kursovi\Tanks\Tanks\obj\Debug\Tanks.exe
+D:\Workspace\C++\Kursovi\Tanks\Tanks\obj\Debug\Tanks.pdb
+D:\Workspace\C++\Kursovi\Tanks\Tanks\bin\Debug\tankG.png
+D:\Workspace\C++\Kursovi\Tanks\Tanks\bin\Debug\tankR.png
+D:\Workspace\C++\Kursovi\Tanks\Tanks\bin\Debug\wallpaper.jpg
+D:\Workspace\C++\Kursovi\Tanks\Tanks\bin\Debug\player1_Name.png
+D:\Workspace\C++\Kursovi\Tanks\Tanks\bin\Debug\player2_Name.png
+D:\Workspace\C++\Kursovi\Tanks\Tanks\obj\Debug\Tanks.GameWindow.resources
